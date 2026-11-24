@@ -1,0 +1,8 @@
+{
+    "name": "monetyo/placeholder",
+    "description": "Reserves the monetyo vendor name on Packagist. Contains no code.",
+    "type": "metapackage",
+    "license": "proprietary",
+    "homepage": "https://monetyo.com",
+    "require": {}
+}
